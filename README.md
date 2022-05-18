@@ -1,10 +1,13 @@
-### Olá, eu sou o Adler 😁
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <h2 align="center">Olá, eu sou o Adler 😁 </h2>
+  <p align="center">Eu amo tudo que é relacionado á tecnologia desde meus 8 anos e atualmente estou estudando para ser um dev 😊.</p>
+</div>
 
 <!--<div align="center">
   <a href="https://github.com/adleralves">
@@ -21,8 +24,8 @@
   <img align="center" alt="Adler-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Adler-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
-  
-  ##
+
+<p></p>
   
 <div align="center"> 
   <a href="https://www.linkedin.com/in/adler-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
