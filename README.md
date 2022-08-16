@@ -4,7 +4,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<!--<div>
   <h2 align="center">Olá, eu sou o Adler 😁 </h2>
   <p align="center">Eu amo tudo que é relacionado á tecnologia desde meus 8 anos e atualmente estou estudando para ser um dev 😊.</p>
 </div>
@@ -13,7 +13,7 @@
   <a href="https://github.com/adleralves">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=adleralves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adleralves&layout=compact&langs_count=7&theme=dracula"/>
-</div>-->
+</div>-->-->
   
   ##
   
