@@ -1,32 +1,38 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
--->
+```typescript
+public class Adler {
 
-<!--<div>
-  <h2 align="center">Olá, eu sou o Adler 😁 </h2>
-  <p align="center">Eu amo tudo que é relacionado á tecnologia desde meus 8 anos e atualmente estou estudando para ser um dev 😊.</p>
-</div>
+    String name;
+    String nationality;
+    List<Technology> technologies;
 
-<!--<div align="center">
-  <a href="https://github.com/adleralves">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=adleralves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adleralves&layout=compact&langs_count=7&theme=dracula"/>
-</div>-->
-  
-  ##
-  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Adler-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Adler-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Adler-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Adler-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Adler-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
+    public Adler(String name, String nationality) {
+        this.name = "Adler Alves";
+        this.nationality = "Brazilian";
+    }
 
-<p></p>
-  
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/adler-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+    public void technologies() {
+        technologies = new ArrayList<Technology>();
+        
+        Technology java = new Technology();
+        java.setAbility("Spring");
+        technologies.add(java);
+        
+        Technology javascript = new Technology();
+        javascript.setAbility("Angular & React Native");
+        technologies.add(java);
+        
+        Technology APIs = new Technology();
+        APIs.setAbility("REST");
+        technologies.add(APIs);
+        
+        Technology design = new Technology();
+        design.setAbility("Bootstrap & Tailwind");
+        technologies.add(design);
+        
+        Technology cloudcomputing = new Technology();
+        cloudcomputing.setAbility("Azure & AWS");
+        technologies.add(cloudcomputing);
+        
+    }
+}
+```
